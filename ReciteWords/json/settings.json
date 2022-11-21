@@ -1,0 +1,159 @@
+{
+    "title": "设置",
+    "children": [
+        {
+            "title": "基本设置",
+            "children": [
+                {
+                    "title": "英语口音",
+                    "showDetail": true,
+                    "detailType": 1,
+                    "options": [
+                        "美式",
+                        "英式"
+                    ]
+                },
+                {
+                    "title": "单词显示",
+                    "showDetail": false,
+                    "detailType": 3,
+                    "options": [
+                        "双语",
+                        "英语",
+                        "中文"
+                    ]
+                },
+                {
+                    "title": "单词行点击",
+                    "showDetail": true,
+                    "detailType": 1,
+                    "options": [
+                        "右边只有发音",
+                        "英式"
+                    ]
+                },
+                {
+                    "title": "单语模式",
+                    "showDetail": true,
+                    "detailType": 1,
+                    "options": [
+                        "侧滑样式",
+                        "隐藏模式"
+                    ]
+                },
+                {
+                    "title": "音标显示",
+                    "showDetail": true,
+                    "detailType": 3,
+                    "options": [
+                        "隐藏",
+                        "英式",
+                        "美式"
+                    ]
+                },
+                {
+                    "title": "生词本",
+                    "showDetail": true,
+                    "detailType": 0
+                }
+            ]
+        },
+        {
+            "title": "iCloud同步，包括学习记录、生词本和自定义词汇",
+            "children": [
+                {
+                    "title": "学习数据备份与恢复",
+                    "showDetail": true,
+                    "detailType": 1
+                }
+            ]
+        },
+        {
+            "title": "其他",
+            "children": [
+                {
+                    "title": "显示模式",
+                    "showDetail": true,
+                    "detailType": 1,
+                    "options": [
+                        "系统",
+                        "白天",
+                        "晚上"
+                    ]
+                },
+                {
+                    "title": "词典设置",
+                    "showDetail": false,
+                    "detailType": 3,
+                    "options": [
+                        "内置词典",
+                        "在线字典",
+                        "中文"
+                    ],
+                    "children": [
+                        {
+                            "title": "词典选择",
+                            "children": [
+                                {
+                                    "title": "不使用词典",
+                                    "showDetail": true,
+                                    "detailType": 1
+                                },
+                                {
+                                    "title": "内置词典",
+                                    "showDetail": true,
+                                    "detailType": 1
+                                },
+                                {
+                                    "title": "在线词典",
+                                    "showDetail": true,
+                                    "detailType": 1
+                                }
+                            ]
+                        },
+                        {
+                            "title": "词典配置",
+                            "children": [
+                                {
+                                    "title": "内置词典配置",
+                                    "showDetail": true,
+                                    "detailType": 1
+                                },
+                                {
+                                    "title": "在线词典配置",
+                                    "showDetail": true,
+                                    "detailType": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "词库选择",
+                    "showDetail": true,
+                    "detailType": 1
+                },
+                {
+                    "title": "评价",
+                    "showDetail": true,
+                    "detailType": 1
+                },
+                {
+                    "title": "问题反馈",
+                    "showDetail": true,
+                    "detailType": 1
+                },
+                {
+                    "title": "使用教程",
+                    "showDetail": true,
+                    "detailType": 0
+                },
+                {
+                    "title": "关于我们",
+                    "showDetail": true,
+                    "detailType": 0
+                }
+            ]
+        }
+    ]
+}

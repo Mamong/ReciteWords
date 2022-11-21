@@ -1,0 +1,330 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "0Hv-Vx-5gz"; */
+"0Hv-Vx-5gz.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "0Lw-a1-Xog"; */
+"0Lw-a1-Xog.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "42U-nD-pxg"; */
+"42U-nD-pxg.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "下载"; ObjectID = "4IE-mQ-UNf"; */
+"4IE-mQ-UNf.normalTitle" = "下载";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "5iO-7E-nY5"; */
+"5iO-7E-nY5.title" = "Item";
+
+/* Class = "UILabel"; text = "单词总数"; ObjectID = "5rj-yL-mGb"; */
+"5rj-yL-mGb.text" = "单词总数";
+
+/* Class = "UILabel"; text = "完成天数"; ObjectID = "6Ej-a3-SJ4"; */
+"6Ej-a3-SJ4.text" = "完成天数";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "6XT-Ht-Z4F"; */
+"6XT-Ht-Z4F.text" = "Detail";
+
+/* Class = "UILabel"; text = "2天后"; ObjectID = "8JR-bA-ovc"; */
+"8JR-bA-ovc.text" = "2天后";
+
+/* Class = "UINavigationItem"; title = "所有词库"; ObjectID = "9im-oO-M9I"; */
+"9im-oO-M9I.title" = "所有词库";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "9y2-CC-jrR"; */
+"9y2-CC-jrR.title" = "我的";
+
+/* Class = "UIButton"; normalTitle = "已掌握"; ObjectID = "A8n-ij-sce"; */
+"A8n-ij-sce.normalTitle" = "已掌握";
+
+/* Class = "UIButton"; normalTitle = "记不清"; ObjectID = "APc-oB-EN6"; */
+"APc-oB-EN6.normalTitle" = "记不清";
+
+/* Class = "UITableViewSection"; headerTitle = "提醒"; ObjectID = "AWb-kD-vf2"; */
+"AWb-kD-vf2.headerTitle" = "提醒";
+
+/* Class = "UILabel"; text = "平均词汇量"; ObjectID = "BUX-md-3Wh"; */
+"BUX-md-3Wh.text" = "平均词汇量";
+
+/* Class = "UILabel"; text = "系统日历提醒"; ObjectID = "Bje-RD-mQC"; */
+"Bje-RD-mQC.text" = "系统日历提醒";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CYc-uW-PSg"; */
+"CYc-uW-PSg.text" = "Label";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "EBi-S5-zqC"; */
+"EBi-S5-zqC.text" = "100";
+
+/* Class = "UILabel"; text = "每日新学单词"; ObjectID = "EhG-00-Rl7"; */
+"EhG-00-Rl7.text" = "每日新学单词";
+
+/* Class = "UIButton"; normalTitle = "[ekses]"; ObjectID = "Fdh-az-XcU"; */
+"Fdh-az-XcU.normalTitle" = "[ekses]";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GVi-ih-wmq"; */
+"GVi-ih-wmq.text" = "Label";
+
+/* Class = "UILabel"; text = "自豪的，得意的"; ObjectID = "Ipe-pV-PTr"; */
+"Ipe-pV-PTr.text" = "自豪的，得意的";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "JJM-RM-qi3"; */
+"JJM-RM-qi3.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "JNS-lY-Ska"; */
+"JNS-lY-Ska.title" = "Item";
+
+/* Class = "UITableViewController"; title = "背单词"; ObjectID = "Kk3-sO-DlO"; */
+"Kk3-sO-DlO.title" = "背单词";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kxu-n2-bvB"; */
+"Kxu-n2-bvB.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "记不清"; ObjectID = "L2X-RS-W1B"; */
+"L2X-RS-W1B.normalTitle" = "记不清";
+
+/* Class = "UIButton"; selectedTitle = "下一个"; ObjectID = "L2X-RS-W1B"; */
+"L2X-RS-W1B.selectedTitle" = "下一个";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Lti-wj-Lfo"; */
+"Lti-wj-Lfo.text" = "Label";
+
+/* Class = "UILabel"; text = "分组总数"; ObjectID = "MJ6-w7-Q6W"; */
+"MJ6-w7-Q6W.text" = "分组总数";
+
+/* Class = "UILabel"; text = "首次"; ObjectID = "NIL-LP-XDW"; */
+"NIL-LP-XDW.text" = "首次";
+
+/* Class = "UIButton"; normalTitle = "L4"; ObjectID = "NSY-N9-MSC"; */
+"NSY-N9-MSC.normalTitle" = "L4";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Nm6-Vf-VaV"; */
+"Nm6-Vf-VaV.title" = "Item";
+
+/* Class = "UILabel"; text = "背词顺序"; ObjectID = "OMn-0n-uQw"; */
+"OMn-0n-uQw.text" = "背词顺序";
+
+/* Class = "UINavigationItem"; title = "背单词"; ObjectID = "OMz-8c-gnH"; */
+"OMz-8c-gnH.title" = "背单词";
+
+/* Class = "UITextField"; text = "good"; ObjectID = "OcQ-Ik-51t"; */
+"OcQ-Ik-51t.text" = "good";
+
+/* Class = "UITableViewController"; title = "配置字典"; ObjectID = "Pg5-84-36v"; */
+"Pg5-84-36v.title" = "配置字典";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "QYD-z9-nA5"; */
+"QYD-z9-nA5.text" = "-";
+
+/* Class = "UITextField"; text = "good"; ObjectID = "QZo-XQ-55W"; */
+"QZo-XQ-55W.text" = "good";
+
+/* Class = "UIButton"; normalTitle = "[ekses]"; ObjectID = "RDc-lE-QJk"; */
+"RDc-lE-QJk.normalTitle" = "[ekses]";
+
+/* Class = "UILabel"; text = "2022-02-26"; ObjectID = "Sfa-03-bN9"; */
+"Sfa-03-bN9.text" = "2022-02-26";
+
+/* Class = "UILabel"; text = "227 /day"; ObjectID = "StH-6d-zNq"; */
+"StH-6d-zNq.text" = "227 /day";
+
+/* Class = "UIButton"; normalTitle = "L2"; ObjectID = "Sy0-TT-9fX"; */
+"Sy0-TT-9fX.normalTitle" = "L2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "THw-Tq-0Zl"; */
+"THw-Tq-0Zl.text" = "Label";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "TuB-Fi-YM1"; */
+"TuB-Fi-YM1.text" = "-";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "UAU-S3-CdS"; */
+"UAU-S3-CdS.text" = "Detail";
+
+/* Class = "UINavigationItem"; title = "L1"; ObjectID = "UBK-V4-UnM"; */
+"UBK-V4-UnM.title" = "L1";
+
+/* Class = "UILabel"; text = "4天后"; ObjectID = "UWA-lc-zXl"; */
+"UWA-lc-zXl.text" = "4天后";
+
+/* Class = "UILabel"; text = "7天后"; ObjectID = "Vsb-Hw-qsg"; */
+"Vsb-Hw-qsg.text" = "7天后";
+
+/* Class = "UILabel"; text = "15天后"; ObjectID = "WU8-oZ-Y6E"; */
+"WU8-oZ-Y6E.text" = "15天后";
+
+/* Class = "UIBarButtonItem"; title = "开始"; ObjectID = "WZ4-YS-5vU"; */
+"WZ4-YS-5vU.title" = "开始";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "Wcr-0a-dfa"; */
+"Wcr-0a-dfa.title" = "Settings";
+
+/* Class = "UIViewController"; title = "全部词库"; ObjectID = "Wi3-y9-bnT"; */
+"Wi3-y9-bnT.title" = "全部词库";
+
+/* Class = "UIButton"; normalTitle = "英[honorificbils]"; ObjectID = "Wln-gi-rbq"; */
+"Wln-gi-rbq.normalTitle" = "英[honorificbils]";
+
+/* Class = "UILabel"; text = "自豪的，得意的"; ObjectID = "Wqc-sq-EKp"; */
+"Wqc-sq-EKp.text" = "自豪的，得意的";
+
+/* Class = "UILabel"; text = "3590"; ObjectID = "XJB-AM-Sj4"; */
+"XJB-AM-Sj4.text" = "3590";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "XgQ-dr-K5X"; */
+"XgQ-dr-K5X.text" = "-";
+
+/* Class = "UILabel"; text = "提醒时间"; ObjectID = "Xy0-YC-RRZ"; */
+"Xy0-YC-RRZ.text" = "提醒时间";
+
+/* Class = "UINavigationItem"; title = "D1"; ObjectID = "YFS-FM-hDu"; */
+"YFS-FM-hDu.title" = "D1";
+
+/* Class = "UILabel"; text = "adj.大的;adv.大大; 给人印象深地;n.大亨; 大公司;大人物"; ObjectID = "YhS-oy-LHY"; */
+"YhS-oy-LHY.text" = "adj.大的;adv.大大; 给人印象深地;n.大亨; 大公司;大人物";
+
+/* Class = "UINavigationItem"; title = "计划表"; ObjectID = "ZFT-HJ-CRv"; */
+"ZFT-HJ-CRv.title" = "计划表";
+
+/* Class = "UITableViewSection"; headerTitle = "分组策略"; ObjectID = "ZY9-7Y-y7u"; */
+"ZY9-7Y-y7u.headerTitle" = "分组策略";
+
+/* Class = "UITableViewController"; title = "设置"; ObjectID = "acS-T0-vyN"; */
+"acS-T0-vyN.title" = "设置";
+
+/* Class = "UITableViewController"; title = "我的"; ObjectID = "bGm-Zx-3h1"; */
+"bGm-Zx-3h1.title" = "我的";
+
+/* Class = "UIButton"; normalTitle = "L3"; ObjectID = "bJS-gs-rOK"; */
+"bJS-gs-rOK.normalTitle" = "L3";
+
+/* Class = "UITableViewSection"; headerTitle = "分组计划"; ObjectID = "bee-Wm-uqM"; */
+"bee-Wm-uqM.headerTitle" = "分组计划";
+
+/* Class = "UILabel"; text = "1天后"; ObjectID = "cQG-CK-2Xw"; */
+"cQG-CK-2Xw.text" = "1天后";
+
+/* Class = "UINavigationItem"; title = "L1(1/25)"; ObjectID = "chB-Ua-r1m"; */
+"chB-Ua-r1m.title" = "L1(1/25)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dQS-Ge-C6O"; */
+"dQS-Ge-C6O.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dWb-6n-P39"; */
+"dWb-6n-P39.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "det-HV-GRU"; */
+"det-HV-GRU.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "L6"; ObjectID = "e0q-vh-crz"; */
+"e0q-vh-crz.normalTitle" = "L6";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "e6q-aC-hzZ"; */
+"e6q-aC-hzZ.text" = "-";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "eTW-ms-SIG"; */
+"eTW-ms-SIG.title" = "Settings";
+
+/* Class = "UINavigationItem"; title = "配置字典"; ObjectID = "eYW-Ua-VNI"; */
+"eYW-Ua-VNI.title" = "配置字典";
+
+/* Class = "UILabel"; text = "查看计划表"; ObjectID = "epE-te-Mhd"; */
+"epE-te-Mhd.text" = "查看计划表";
+
+/* Class = "UILabel"; text = "艾宾浩斯"; ObjectID = "fhz-Zg-Ev8"; */
+"fhz-Zg-Ev8.text" = "艾宾浩斯";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "gJp-Ja-a5l"; */
+"gJp-Ja-a5l.text" = "100";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "gWf-oN-HJd"; */
+"gWf-oN-HJd.text" = "30";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "ghy-zx-VV3"; */
+"ghy-zx-VV3.normalTitle" = "查看";
+
+/* Class = "UIButton"; normalTitle = "已掌握"; ObjectID = "h7R-WY-Cow"; */
+"h7R-WY-Cow.normalTitle" = "已掌握";
+
+/* Class = "UILabel"; text = "日期"; ObjectID = "hKv-6d-1oB"; */
+"hKv-6d-1oB.text" = "日期";
+
+/* Class = "UILabel"; text = "good"; ObjectID = "jeC-iY-urI"; */
+"jeC-iY-urI.text" = "good";
+
+/* Class = "UILabel"; text = "总天数"; ObjectID = "jrW-BS-8VO"; */
+"jrW-BS-8VO.text" = "总天数";
+
+/* Class = "UIButton"; normalTitle = "美[bɪɡ]"; ObjectID = "kQL-ku-8fm"; */
+"kQL-ku-8fm.normalTitle" = "美[bɪɡ]";
+
+/* Class = "UILabel"; text = "已学习单词"; ObjectID = "l9Q-91-Wv5"; */
+"l9Q-91-Wv5.text" = "已学习单词";
+
+/* Class = "UILabel"; text = "完成日期"; ObjectID = "lG5-I7-6ka"; */
+"lG5-I7-6ka.text" = "完成日期";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lMI-g8-6dg"; */
+"lMI-g8-6dg.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "模式"; ObjectID = "m0b-ZO-nCP"; */
+"m0b-ZO-nCP.normalTitle" = "模式";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m0s-oj-7P5"; */
+"m0s-oj-7P5.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mau-5v-qBl"; */
+"mau-5v-qBl.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "美[honorificbilitudinitatibus]"; ObjectID = "mkV-mt-UOY"; */
+"mkV-mt-UOY.normalTitle" = "美[honorificbilitudinitatibus]";
+
+/* Class = "UILabel"; text = "微信提醒"; ObjectID = "msr-CI-pKd"; */
+"msr-CI-pKd.text" = "微信提醒";
+
+/* Class = "UIButton"; normalTitle = "L1"; ObjectID = "nnd-h0-AKe"; */
+"nnd-h0-AKe.normalTitle" = "L1";
+
+/* Class = "UILabel"; text = "20:00"; ObjectID = "o1p-gF-uzu"; */
+"o1p-gF-uzu.text" = "20:00";
+
+/* Class = "UIButton"; normalTitle = "英[bɪɡ]"; ObjectID = "okH-zo-rLV"; */
+"okH-zo-rLV.normalTitle" = "英[bɪɡ]";
+
+/* Class = "UILabel"; text = "自定义"; ObjectID = "oqJ-ds-bAT"; */
+"oqJ-ds-bAT.text" = "自定义";
+
+/* Class = "UITabBarItem"; title = "背单词"; ObjectID = "pg5-DK-kXL"; */
+"pg5-DK-kXL.title" = "背单词";
+
+/* Class = "UINavigationItem"; title = "字典"; ObjectID = "pxq-ZV-yEg"; */
+"pxq-ZV-yEg.title" = "字典";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "q31-FK-cZd"; */
+"q31-FK-cZd.text" = "100";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "qiZ-jS-Za6"; */
+"qiZ-jS-Za6.title" = "我的";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rL7-WS-v6p"; */
+"rL7-WS-v6p.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rMo-po-6Qp"; */
+"rMo-po-6Qp.text" = "Label";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "tdU-rM-cuG"; */
+"tdU-rM-cuG.text" = "-";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "u10-sP-yEX"; */
+"u10-sP-yEX.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "                             "; ObjectID = "v0O-4q-dEu"; */
+"v0O-4q-dEu.title" = "                             ";
+
+/* Class = "UILabel"; text = "记忆周期"; ObjectID = "vBO-TS-0Pi"; */
+"vBO-TS-0Pi.text" = "记忆周期";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "vU7-Sf-k9c"; */
+"vU7-Sf-k9c.text" = "-";
+
+/* Class = "UILabel"; text = "adj.大的;adv.大大; 给人印象深地;n.大亨; 大公司;大人物"; ObjectID = "wwP-Ii-HfM"; */
+"wwP-Ii-HfM.text" = "adj.大的;adv.大大; 给人印象深地;n.大亨; 大公司;大人物";
+
+/* Class = "UIButton"; normalTitle = "L5"; ObjectID = "x6q-RN-fLo"; */
+"x6q-RN-fLo.normalTitle" = "L5";

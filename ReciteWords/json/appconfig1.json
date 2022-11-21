@@ -1,0 +1,4098 @@
+{
+    "errno": 0,
+    "error": 0,
+    "errmsg": "成功",
+    "msg": "成功",
+    "data": {
+        "books": [
+            {
+                "word_count": 897,
+                "name": "中考核心词汇",
+                "name_en": "Core Vocabulary for Middle School",
+                "id": 10001,
+                "thesaurusId": 999900001,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10001.db",
+                "desc": "中考",
+                "desc_en": "Middle School",
+                "major_type": 7,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "中考必胜",
+                "recite_cnt": "896",
+                "daily_word_count": 20,
+                "recitations_num": 2391,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1268,
+                "name": "高考核心词汇",
+                "name_en": "Core Vocabulary for Gaokao",
+                "id": 10002,
+                "thesaurusId": 999900002,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10002.db",
+                "desc": "高考",
+                "desc_en": "Gaokao",
+                "major_type": 8,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "备战高考",
+                "recite_cnt": "1267",
+                "daily_word_count": 20,
+                "recitations_num": 3459,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 3690,
+                "name": "高考大纲词汇",
+                "name_en": "Outline Vocabulary for Gaokao",
+                "id": 10003,
+                "thesaurusId": 999900003,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10003.db",
+                "desc": "高考",
+                "desc_en": "Gaokao",
+                "major_type": 8,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "reason": "高考必胜",
+                "recite_cnt": "3686",
+                "recitations_num": 1425,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 823,
+                "name": "四级高频词汇",
+                "name_en": "CET4 Vocabulary of High Frequency",
+                "id": 10004,
+                "thesaurusId": 999900004,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10004.db",
+                "desc": "四级",
+                "desc_en": "CET4",
+                "major_type": 9,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "大学四级冲刺",
+                "recite_cnt": "823",
+                "recitations_num": 5645,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2791,
+                "name": "四级核心词汇",
+                "name_en": "CET4 Core Vocabulary",
+                "id": 10005,
+                "thesaurusId": 999900005,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10005.db",
+                "desc": "四级",
+                "desc_en": "CET4",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "2789",
+                "recitations_num": 3911,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 874,
+                "name": "六级高频词汇",
+                "name_en": "CET6 Vocabulary of High Frequency",
+                "id": 10006,
+                "thesaurusId": 999900006,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10006.db",
+                "desc": "六级",
+                "desc_en": "CET6",
+                "major_type": 9,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "大学六级冲刺",
+                "recite_cnt": "874",
+                "recitations_num": 1459,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2219,
+                "name": "六级核心词汇",
+                "name_en": "CET6 Core Vocabulary",
+                "id": 10007,
+                "thesaurusId": 999900007,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10007.db",
+                "desc": "六级",
+                "desc_en": "CET6",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "大学六级冲刺",
+                "recite_cnt": "2218",
+                "recitations_num": 2121,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 1,
+                        "text": "考试频次",
+                        "text_en": "Test frequency"
+                    },
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2100,
+                "name": "专四核心词汇",
+                "name_en": "TEM4 Core Vocabulary",
+                "id": 10008,
+                "thesaurusId": 999900008,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10008.db",
+                "desc": "专四",
+                "desc_en": "TEM4",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "2099",
+                "recitations_num": 3459,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1864,
+                "name": "专八核心词汇",
+                "name_en": "TEM8 Core Vocabulary",
+                "id": 10009,
+                "thesaurusId": 999900009,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10009.db",
+                "desc": "专八",
+                "desc_en": "TEM8",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "1861",
+                "recitations_num": 3459,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1338,
+                "name": "考研高频词汇",
+                "name_en": "Vocabulary of High Frequency for Graduate School Entrance Examination",
+                "id": 10010,
+                "thesaurusId": 999900010,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10010.db",
+                "desc": "考研",
+                "desc_en": "Graduate School Entrance Examination",
+                "major_type": 9,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "考研必背",
+                "recite_cnt": "1313",
+                "recitations_num": 1591,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 5514,
+                "name": "考研大纲词汇",
+                "name_en": "Outline Vocabulary for Graduate School Entrance Examination",
+                "id": 10011,
+                "thesaurusId": 999900011,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10011.db",
+                "desc": "考研",
+                "desc_en": "Graduate School Entrance Examination",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "考研必备",
+                "recite_cnt": "5474",
+                "recitations_num": 941,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 3,
+                        "text": "易错频次",
+                        "text_en": "Error-prone"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 4127,
+                "name": "雅思核心词汇",
+                "name_en": "IELTS Core Vocabulary",
+                "id": 10012,
+                "thesaurusId": 999900012,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10012.db",
+                "desc": "雅思",
+                "desc_en": "IELTS",
+                "major_type": 10,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定雅思单词",
+                "recite_cnt": "4125",
+                "recitations_num": 391,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2494,
+                "name": "托福核心词汇",
+                "name_en": "TOEFL Core Vocabulary",
+                "id": 10013,
+                "thesaurusId": 999900013,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10013.db",
+                "desc": "托福",
+                "desc_en": "TOEFL",
+                "major_type": 10,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "2491",
+                "recitations_num": 223,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 3540,
+                "name": "SAT核心词汇",
+                "name_en": "SAT Core Vocabulary",
+                "id": 10014,
+                "thesaurusId": 999900014,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10014.db",
+                "desc": "SAT",
+                "desc_en": "SAT",
+                "major_type": 10,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "3350",
+                "recitations_num": 111,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 6182,
+                "name": "GRE核心词汇",
+                "name_en": "GRE Core Vocabulary",
+                "id": 10015,
+                "thesaurusId": 999900015,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10015.db",
+                "desc": "GRE",
+                "desc_en": "GRE",
+                "major_type": 10,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "6188",
+                "recitations_num": 111,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 3599,
+                "name": "GMAT核心词汇",
+                "name_en": "GMAT Core Vocabulary",
+                "id": 10016,
+                "thesaurusId": 999900016,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10016.db",
+                "desc": "GMAT",
+                "desc_en": "GMAT",
+                "major_type": 10,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "3580",
+                "recitations_num": 111,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1480,
+                "name": "剑桥一级KET",
+                "name_en": "Key English Test",
+                "id": 10017,
+                "thesaurusId": 999900017,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10017.db",
+                "desc": "KET",
+                "desc_en": "KET",
+                "major_type": 11,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定“小雅思”",
+                "recite_cnt": "1480",
+                "recitations_num": 348,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2918,
+                "name": "剑桥二级PET",
+                "name_en": "Preliminary English Test",
+                "id": 10018,
+                "thesaurusId": 999900018,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10018.db",
+                "desc": "PET",
+                "desc_en": "PET",
+                "major_type": 11,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "2364",
+                "recitations_num": 348,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2690,
+                "name": "剑桥三级FCE",
+                "name_en": "First Certificate in English",
+                "id": 10019,
+                "thesaurusId": 999900019,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10019.db",
+                "desc": "FCE",
+                "desc_en": "FCE",
+                "major_type": 11,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "2688",
+                "recitations_num": 348,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1576,
+                "name": "剑桥四级CAE",
+                "name_en": "Certificate in Advanced English",
+                "id": 10020,
+                "thesaurusId": 999900020,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10020.db",
+                "desc": "CAE",
+                "desc_en": "CAE",
+                "major_type": 11,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "1575",
+                "recitations_num": 348,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1421,
+                "name": "剑桥五级CPE",
+                "name_en": "Certificate of Proficiency in English",
+                "id": 10021,
+                "thesaurusId": 999900021,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10021.db",
+                "desc": "CPE",
+                "desc_en": "CPE",
+                "major_type": 11,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "精准推荐",
+                "recite_cnt": "1420",
+                "recitations_num": 348,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 824,
+                "name": "人教版初一",
+                "name_en": "Seventh Grade vocabulary of PEP",
+                "id": 10022,
+                "thesaurusId": 999900022,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10022.db",
+                "desc": "初一",
+                "desc_en": "Seventh Grade",
+                "major_type": 7,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "567",
+                "recitations_num": 184,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 855,
+                "name": "人教版初二",
+                "name_en": "Eighth Grade vocabulary of PEP",
+                "id": 10023,
+                "thesaurusId": 999900023,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10023.db",
+                "desc": "初二",
+                "desc_en": "Eighth Grade",
+                "major_type": 7,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "855",
+                "recitations_num": 218,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 589,
+                "name": "人教版初三",
+                "name_en": "Ninth Grade vocabulary of PEP",
+                "id": 10024,
+                "thesaurusId": 999900024,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10024.db",
+                "desc": "初三",
+                "desc_en": "Ninth Grade",
+                "major_type": 7,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "589",
+                "recitations_num": 98,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 311,
+                "name": "人教版四年级",
+                "name_en": "Fourth Grade vocabulary of PEP",
+                "id": 10025,
+                "thesaurusId": 999900025,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10025.db",
+                "desc": "四年级",
+                "desc_en": "Fourth Grade",
+                "major_type": 6,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "311",
+                "recitations_num": 98,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 266,
+                "name": "人教版五年级",
+                "name_en": "Fifth Grade vocabulary of PEP",
+                "id": 10026,
+                "thesaurusId": 999900026,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10026.db",
+                "desc": "五年级",
+                "desc_en": "Fifth Grade",
+                "major_type": 6,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "263",
+                "recitations_num": 198,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 100,
+                "name": "人教版六年级",
+                "name_en": "Sixth Grade vocabulary of PEP",
+                "id": 10027,
+                "thesaurusId": 999900027,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10027.db",
+                "desc": "六年级",
+                "desc_en": "Sixth Grade",
+                "major_type": 6,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "100",
+                "recitations_num": 108,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 864,
+                "name": "新概念英语1",
+                "name_en": "New Concept English 1",
+                "id": 10028,
+                "thesaurusId": 999900028,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10028.db",
+                "desc": "新概念1",
+                "desc_en": "NCE 1",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "862",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 848,
+                "name": "新概念英语2",
+                "name_en": "New Concept English 2",
+                "id": 10029,
+                "thesaurusId": 999900029,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10029.db",
+                "desc": "新概念2",
+                "desc_en": "NCE 2",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "848",
+                "recitations_num": 135,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1032,
+                "name": "新概念英语3",
+                "name_en": "New Concept English 3",
+                "id": 10030,
+                "thesaurusId": 999900030,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10030.db",
+                "desc": "新概念3",
+                "desc_en": "NCE 3",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "1031",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 774,
+                "name": "新概念英语4",
+                "name_en": "New Concept English 4",
+                "id": 10031,
+                "thesaurusId": 999900031,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10031.db",
+                "desc": "新概念4",
+                "desc_en": "NCE 4",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "774",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 119,
+                "name": "常见动物词汇",
+                "name_en": "Animal vocabulary",
+                "id": 10032,
+                "thesaurusId": 999900032,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10032.db",
+                "desc": "动物词汇",
+                "desc_en": "Animal vocabulary",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "动物单词知多少",
+                "recite_cnt": "26",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 93,
+                "name": "常见水果词汇",
+                "name_en": "Fruit vocabulary",
+                "id": 10033,
+                "thesaurusId": 999900033,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10033.db",
+                "desc": "水果词汇",
+                "desc_en": "Fruit vocabulary",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "水果单词知多少",
+                "recite_cnt": "13",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 92,
+                "name": "出国旅游必备",
+                "name_en": "Vocabulary for overseas travel",
+                "id": 10034,
+                "thesaurusId": 999900034,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10034.db",
+                "desc": "旅游词汇",
+                "desc_en": "travel vocabulary",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "出国旅游不迷路！",
+                "recite_cnt": "92",
+                "recitations_num": 313,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 678,
+                "name": "专升本核心词",
+                "name_en": "Top-up core vocabulary",
+                "id": 10035,
+                "thesaurusId": 999900035,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10035.db",
+                "desc": "专升本",
+                "desc_en": "Top-up",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "677",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1285,
+                "name": "BEC商务英语",
+                "name_en": "BEC vocabulary",
+                "id": 10036,
+                "thesaurusId": 999900036,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10036.db",
+                "desc": "商务英语",
+                "desc_en": "BEC",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "商务必备英语词汇",
+                "recite_cnt": "1284",
+                "recitations_num": 136,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 426,
+                "name": "仁爱版七年级上册",
+                "name_en": "Seventh grade  volume one of renai",
+                "id": 10037,
+                "thesaurusId": 999900037,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10037.db",
+                "desc": "七年级上册",
+                "desc_en": "Seventh grade  volume one",
+                "major_type": 7,
+                "importance_type": 6,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "426",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 560,
+                "name": "仁爱版七年级下册",
+                "name_en": "Seventh grade  volume two of renai",
+                "id": 10038,
+                "thesaurusId": 999900038,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10038.db",
+                "desc": "七年级下册",
+                "desc_en": "Seventh grade  volume two",
+                "major_type": 7,
+                "importance_type": 6,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "559",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 593,
+                "name": "仁爱版八年级上册",
+                "name_en": "Eight grade  volume one of renai",
+                "id": 10039,
+                "thesaurusId": 999900039,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10039.db",
+                "desc": "八年级上册",
+                "desc_en": "Eight grade  volume one",
+                "major_type": 7,
+                "importance_type": 6,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "591",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 459,
+                "name": "仁爱版八年级下册",
+                "name_en": "Eight grade  volume two of renai",
+                "id": 10040,
+                "thesaurusId": 999900040,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10040.db",
+                "desc": "八年级下册",
+                "desc_en": "Eight grade volume two",
+                "major_type": 7,
+                "importance_type": 6,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "459",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 418,
+                "name": "仁爱版九年级上册",
+                "name_en": "Ninth grade  volume one",
+                "id": 10041,
+                "thesaurusId": 999900041,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10041.db",
+                "desc": "仁爱版九年级上册",
+                "desc_en": "Ninth grade  volume one",
+                "major_type": 7,
+                "importance_type": 6,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "418",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 213,
+                "name": "仁爱版九年级下册",
+                "name_en": "Ninth grade volume two of renai",
+                "id": 10042,
+                "thesaurusId": 999900042,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10042.db",
+                "desc": "九年级下册",
+                "desc_en": "Ninth grade  volume two",
+                "major_type": 7,
+                "importance_type": 6,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "经典英语教材",
+                "recite_cnt": "213",
+                "recitations_num": 145,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 265,
+                "name": "高中必修1（人教版）",
+                "name_en": "High school required 1 of PEP",
+                "id": 10043,
+                "thesaurusId": 999900043,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10043.db",
+                "desc": "高中必修1",
+                "desc_en": "High school required 1",
+                "major_type": 8,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "251",
+                "recitations_num": 241,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 290,
+                "name": "高中必修2（人教版）",
+                "name_en": "High school required 2 of PEP",
+                "id": 10044,
+                "thesaurusId": 999900044,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10044.db",
+                "desc": "高中必修2",
+                "desc_en": "High school required 2",
+                "major_type": 8,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "290",
+                "recitations_num": 241,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 338,
+                "name": "高中必修3（人教版）",
+                "name_en": "High school required 3 of PEP",
+                "id": 10045,
+                "thesaurusId": 999900045,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10045.db",
+                "desc": "高中必修3",
+                "desc_en": "High school required 3",
+                "major_type": 8,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "337",
+                "recitations_num": 241,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 279,
+                "name": "高中必修4（人教版）",
+                "name_en": "High school required 4 of PEP",
+                "id": 10046,
+                "thesaurusId": 999900046,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10046.db",
+                "desc": "高中必修4",
+                "desc_en": "High school required 4",
+                "major_type": 8,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "279",
+                "recitations_num": 241,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 338,
+                "name": "高中必修5（人教版）",
+                "name_en": "High school required 5 of PEP",
+                "id": 10047,
+                "thesaurusId": 999900047,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10047.db",
+                "desc": "高中必修5",
+                "desc_en": "High school required 5",
+                "major_type": 8,
+                "importance_type": 4,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "338",
+                "recitations_num": 241,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 53,
+                "name": "新起点一年级上册",
+                "name_en": "First grade volume one of SL",
+                "id": 10048,
+                "thesaurusId": 999900048,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10048.db",
+                "desc": "一年级上册",
+                "desc_en": "First grade volume one",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "52",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 45,
+                "name": "新起点一年级下册",
+                "name_en": "First grade volume two of SL",
+                "id": 10049,
+                "thesaurusId": 999900049,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10049.db",
+                "desc": "一年级下册",
+                "desc_en": "First grade volume two",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "45",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 51,
+                "name": "新起点二年级上册",
+                "name_en": "Second grade volume one of SL",
+                "id": 10050,
+                "thesaurusId": 999900050,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10050.db",
+                "desc": "二年级上册",
+                "desc_en": "Second grade volume one",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "51",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 52,
+                "name": "新起点二年级下册",
+                "name_en": "Second grade volume two of SL",
+                "id": 10051,
+                "thesaurusId": 999900051,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10051.db",
+                "desc": "二年级下册",
+                "desc_en": "Second grade volume two",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "52",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 101,
+                "name": "三年级上册（新起点）",
+                "name_en": "Third grade volume one of SL",
+                "id": 10052,
+                "thesaurusId": 999900052,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10052.db",
+                "desc": "三年级上册",
+                "desc_en": "Third grade volume one",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "100",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 71,
+                "name": "三年级下册（新起点）",
+                "name_en": "Third grade volume two of SL",
+                "id": 10053,
+                "thesaurusId": 999900053,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10053.db",
+                "desc": "三年级下册",
+                "desc_en": "Third grade volume two",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "71",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 105,
+                "name": "新起点四年级上册",
+                "name_en": "Fourth grade volume one of SL",
+                "id": 10054,
+                "thesaurusId": 999900054,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10054.db",
+                "desc": "四年级上册",
+                "major_type": 6,
+                "importance_type": 5,
+                "desc_en": "Fourth grade volume one",
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "105",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 76,
+                "name": "新起点四年级下册",
+                "name_en": "Fourth grade volume two of SL",
+                "id": 10055,
+                "thesaurusId": 999900055,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10055.db",
+                "desc": "四年级下册",
+                "desc_en": "Fourth grade volume two",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "76",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 60,
+                "name": "新起点五年级上册",
+                "name_en": "Fifth grade volume one of SL",
+                "id": 10056,
+                "thesaurusId": 999900056,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10056.db",
+                "desc": "五年级上册",
+                "desc_en": "Fifth grade volume one",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "60",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 60,
+                "name": "新起点五年级下册",
+                "name_en": "Fifth grade volume two of SL",
+                "id": 10057,
+                "thesaurusId": 999900057,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10057.db",
+                "desc": "五年级下册",
+                "desc_en": "Fifth grade volume two",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "60",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 93,
+                "name": "新起点六年级上册",
+                "name_en": "Sixth grade volume one of SL",
+                "id": 10058,
+                "thesaurusId": 999900058,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10058.db",
+                "desc": "六年级上册",
+                "desc_en": "Sixth grade volume one",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "93",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 38,
+                "name": "新起点六年级下册",
+                "name_en": "Sixth grade volume two of SL",
+                "id": 10059,
+                "thesaurusId": 999900059,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10059.db",
+                "desc": "六年级下册",
+                "desc_en": "Sixth grade volume two",
+                "major_type": 6,
+                "importance_type": 5,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "搞定课堂单词",
+                "recite_cnt": "38",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 215,
+                "name": "四级考前冲刺词表",
+                "name_en": "Vocabulary cramming for CET4",
+                "id": 10060,
+                "thesaurusId": 999900060,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10060.db",
+                "desc": "四级考前冲刺词表",
+                "desc_en": "Vocabulary cramming for CET4",
+                "major_type": 9,
+                "importance_type": 7,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "215",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 214,
+                "name": "六级考前冲刺词表",
+                "name_en": "Vocabulary cramming for CET6",
+                "id": 10061,
+                "thesaurusId": 999900061,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/10061.db",
+                "desc": "六级考前冲刺词表",
+                "desc_en": "Vocabulary cramming for CET6",
+                "major_type": 9,
+                "importance_type": 7,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "六级考前冲刺",
+                "recite_cnt": "214",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 339,
+                "name": "译林版七年级上册",
+                "name_en": "Seventh grade volume one of Yilin",
+                "id": 10062,
+                "thesaurusId": 999900062,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900062.db",
+                "desc": "七年级上册",
+                "desc_en": "Seventh grade volume one",
+                "major_type": 7,
+                "importance_type": 8,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "337",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 426,
+                "name": "译林版七年级下册",
+                "name_en": "Seventh grade volume two of Yilin",
+                "id": 10063,
+                "thesaurusId": 999900063,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900063.db",
+                "desc": "七年级下册",
+                "desc_en": "Seventh grade volume two",
+                "major_type": 7,
+                "importance_type": 8,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "420",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 463,
+                "name": "译林版八年级上册",
+                "name_en": "Eighth grade volume one of Yilin",
+                "id": 10064,
+                "thesaurusId": 999900064,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900064.db",
+                "desc": "八年级上册",
+                "desc_en": "Eighth grade volume one",
+                "major_type": 7,
+                "importance_type": 8,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "459",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 376,
+                "name": "译林版八年级下册",
+                "name_en": "Eighth grade volume two of Yilin",
+                "id": 10065,
+                "thesaurusId": 999900065,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900065.db",
+                "desc": "八年级下册",
+                "desc_en": "Eighth grade volume two",
+                "major_type": 7,
+                "importance_type": 8,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "372",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 429,
+                "name": "译林版九年级上册",
+                "name_en": "Ninth grade volume one of Yilin",
+                "id": 10066,
+                "thesaurusId": 999900066,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900066.db",
+                "desc": "九年级上册",
+                "desc_en": "Ninth grade volume one",
+                "major_type": 7,
+                "importance_type": 8,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "421",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 181,
+                "name": "译林版九年级下册",
+                "name_en": "Ninth grade volume two of Yilin",
+                "id": 10067,
+                "thesaurusId": 999900067,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900067.db",
+                "desc": "九年级下册",
+                "desc_en": "Ninth grade volume two",
+                "major_type": 7,
+                "importance_type": 8,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "177",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 456,
+                "name": "外研版七年级上册",
+                "name_en": "Seventh grade volume one of FLTRP",
+                "id": 10068,
+                "thesaurusId": 999900068,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900068.db",
+                "desc": "七年级上册",
+                "desc_en": "Seventh grade volume one",
+                "major_type": 7,
+                "importance_type": 9,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "456",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 445,
+                "name": "外研版七年级下册",
+                "name_en": "Seventh grade volume two of FLTRP",
+                "id": 10069,
+                "thesaurusId": 999900069,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900069.db",
+                "desc": "七年级下册",
+                "desc_en": "Seventh grade volume two",
+                "major_type": 7,
+                "importance_type": 9,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "444",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 313,
+                "name": "外研版八年级上册",
+                "name_en": "Eighth grade volume one of FLTRP",
+                "id": 10070,
+                "thesaurusId": 999900070,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900070.db",
+                "desc": "八年级上册",
+                "desc_en": "Eighth grade volume one",
+                "major_type": 7,
+                "importance_type": 9,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "311",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 258,
+                "name": "外研版八年级下册",
+                "name_en": "Eighth grade volume two of FLTRP",
+                "id": 10071,
+                "thesaurusId": 999900071,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900071.db",
+                "desc": "八年级下册",
+                "desc_en": "Eighth grade volume two",
+                "major_type": 7,
+                "importance_type": 9,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "258",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 369,
+                "name": "外研版九年级上册",
+                "name_en": "Ninth grade volume one of FLTRP",
+                "id": 10072,
+                "thesaurusId": 999900072,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900072.db",
+                "desc": "九年级上册",
+                "desc_en": "Ninth grade volume one",
+                "major_type": 7,
+                "importance_type": 9,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "369",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 127,
+                "name": "外研版九年级下册",
+                "name_en": "Ninth grade volume two of FLTRP",
+                "id": 10073,
+                "thesaurusId": 999900073,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900073.db",
+                "desc": "九年级下册",
+                "desc_en": "Ninth grade volume two",
+                "major_type": 7,
+                "importance_type": 9,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "四级考前冲刺",
+                "recite_cnt": "127",
+                "recitations_num": 41,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 227,
+                "name": "高考冲刺词表",
+                "name_en": "Vocabulary cramming for college entrance examination",
+                "id": 10074,
+                "thesaurusId": 999900074,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900074.db",
+                "desc": "高考词汇",
+                "desc_en": "college entrance examination vocabulary",
+                "major_type": 8,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "高考冲刺",
+                "recite_cnt": "227",
+                "recitations_num": 12,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 209,
+                "name": "中考冲刺词表",
+                "name_en": "Vocabulary cramming for senior high school entrance examination",
+                "id": 10075,
+                "thesaurusId": 999900075,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900075.db",
+                "desc": "中考词汇",
+                "desc_en": "senior high school entrance examination vocabulary",
+                "major_type": 7,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "中考冲刺",
+                "recite_cnt": "209",
+                "recitations_num": 11,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 30,
+                "name": "常见蔬菜词汇",
+                "name_en": "Vegetable vocabulary",
+                "id": 10076,
+                "thesaurusId": 999900076,
+                "version": 12,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900076.db",
+                "desc": "蔬菜词汇",
+                "desc_en": "senior high school entrance examination vocabulary",
+                "major_type": 6,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "30",
+                "recitations_num": 11,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 50,
+                "name": "常见身体部位词汇",
+                "name_en": "Body vocabulary",
+                "id": 10077,
+                "thesaurusId": 999900077,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900077.db",
+                "desc": "身体部位词汇",
+                "desc_en": "body vocabulary",
+                "major_type": 12,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "中考冲刺",
+                "recite_cnt": "50",
+                "recitations_num": 11,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 40,
+                "name": "常见职业词汇",
+                "name_en": "Vocabulary cramming for senior high school entrance examination",
+                "id": 10078,
+                "thesaurusId": 999900078,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900078.db",
+                "desc": "职业词汇",
+                "desc_en": "Professional vocabulary",
+                "major_type": 12,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "40",
+                "recitations_num": 11,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 388,
+                "name": "雅思冲刺词表",
+                "name_en": "Vocabulary cramming for IELTS",
+                "id": 10079,
+                "thesaurusId": 999900079,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900079.db",
+                "desc": "雅思词汇",
+                "desc_en": "IELTS vocabulary",
+                "major_type": 10,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "388",
+                "recitations_num": 20,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 345,
+                "name": "考研冲刺词表",
+                "name_en": "Vocabulary for postgraduate entrance examination",
+                "id": 10080,
+                "thesaurusId": 999900080,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900080.db",
+                "desc": "考研词汇",
+                "desc_en": "Vocabulary of postgraduate entrance examination",
+                "major_type": 9,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "345",
+                "recitations_num": 18,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1747,
+                "name": "四级重点词表",
+                "name_en": "Key words list of CET-4",
+                "id": 10081,
+                "thesaurusId": 999900081,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900081.db",
+                "desc": "四级词汇",
+                "desc_en": "CET-4 vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "1747",
+                "recitations_num": 175,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 1717,
+                "name": "六级重点词表",
+                "name_en": "Key words list of CET-6",
+                "id": 10082,
+                "thesaurusId": 999900082,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900082.db",
+                "desc": "六级词汇",
+                "desc_en": "CET-6 vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "1717",
+                "recitations_num": 172,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 116,
+                "name": "四级写作翻译词表",
+                "name_en": "Writing translation vocabulary of CET-4",
+                "id": 10083,
+                "thesaurusId": 999900083,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900083.db",
+                "desc": "四级词汇",
+                "desc_en": "CET-4 vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "116",
+                "recitations_num": 12,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 119,
+                "name": "六级写作翻译词表",
+                "name_en": "Writing translation vocabulary of CET-6",
+                "id": 10084,
+                "thesaurusId": 999900084,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900084.db",
+                "desc": "六级词汇",
+                "desc_en": "CET-6 vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "119",
+                "recitations_num": 12,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 467,
+                "name": "2021年托业词汇表",
+                "name_en": "TOEIC Glossary for 2021",
+                "id": 10085,
+                "thesaurusId": 999900085,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900085.db",
+                "desc": "托业词汇",
+                "desc_en": "TOEIC",
+                "major_type": 10,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "467",
+                "recitations_num": 47,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 864,
+                "name": "2021年考研必考词",
+                "name_en": "Compulsory words for the postgraduate entrance exam in 2021",
+                "id": 10086,
+                "thesaurusId": 999900086,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900086.db",
+                "desc": "考研词汇",
+                "desc_en": "Postgraduate entrance exam vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "863",
+                "recitations_num": 87,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 81,
+                "name": "奥运会词汇",
+                "name_en": "Olympic vocabulary",
+                "id": 10087,
+                "thesaurusId": 999900087,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900087.db",
+                "desc": "奥运会词汇",
+                "desc_en": "Olympic vocabulary",
+                "major_type": 12,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "81",
+                "recitations_num": 9,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 74,
+                "name": "常用航空航天词汇",
+                "name_en": "Aerospace vocabulary",
+                "id": 10088,
+                "thesaurusId": 999900088,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900088.db",
+                "desc": "常用航空航天词汇",
+                "desc_en": "Aerospace vocabulary",
+                "major_type": 12,
+                "importance_type": 2,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "74",
+                "recitations_num": 8,
+                "daily_word_count": 10,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 2513,
+                "name": "2021年考研基础词",
+                "name_en": "Basic words for the postgraduate entrance exam in 2021",
+                "id": 10089,
+                "thesaurusId": 999900089,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900089.db",
+                "desc": "考研词汇",
+                "desc_en": "Postgraduate entrance exam vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "2513",
+                "recitations_num": 26,
+                "daily_word_count": 100,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 328,
+                "name": "鲁教版七上",
+                "name_en": "Lu Jiao Version Seven 1",
+                "id": 10090,
+                "thesaurusId": 999900090,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900090.db",
+                "desc": "七上",
+                "desc_en": "Seven 1",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "328",
+                "recitations_num": 17,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 308,
+                "name": "鲁教版六上",
+                "name_en": "Lu Jiao Version Six 1",
+                "id": 10091,
+                "thesaurusId": 999900091,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900091.db",
+                "desc": "六上",
+                "desc_en": "Six 1",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "308",
+                "recitations_num": 16,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 375,
+                "name": "鲁教版六下",
+                "name_en": "Lu Jiao Version Six 2",
+                "id": 10092,
+                "thesaurusId": 999900092,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900092.db",
+                "desc": "六下",
+                "desc_en": "Six 2",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "375",
+                "recitations_num": 19,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 354,
+                "name": "鲁教版七下",
+                "name_en": "Lu Jiao Version Seven 2",
+                "id": 10093,
+                "thesaurusId": 999900093,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900093.db",
+                "desc": "七下",
+                "desc_en": "Seven 2",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "354",
+                "recitations_num": 18,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 351,
+                "name": "鲁教版八上",
+                "name_en": "Lu Jiao Version Eight 1",
+                "id": 10094,
+                "thesaurusId": 999900094,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900094.db",
+                "desc": "八上",
+                "desc_en": "Eight 1",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "351",
+                "recitations_num": 16,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 273,
+                "name": "鲁教版八下",
+                "name_en": "Lu Jiao Version Eight 2",
+                "id": 10095,
+                "thesaurusId": 999900095,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900095.db",
+                "desc": "八下",
+                "desc_en": "Eight 2",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "273",
+                "recitations_num": 19,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 310,
+                "name": "鲁教版九全",
+                "name_en": "Lu Jiao Version Nine All",
+                "id": 10096,
+                "thesaurusId": 999900096,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900096.db",
+                "desc": "九全",
+                "desc_en": "Nine all",
+                "major_type": 7,
+                "importance_type": 10,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "310",
+                "recitations_num": 16,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 115,
+                "name": "中华文化必备词",
+                "name_en": "word list for traditional Chinese culture",
+                "id": 10097,
+                "thesaurusId": 999900097,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900097.db",
+                "desc": "中华文化必备词",
+                "desc_en": "word list for traditional Chinese culture",
+                "major_type": 12,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "115",
+                "recitations_num": 6,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 870,
+                "name": "四级阅读核心词汇",
+                "name_en": "CET-4 reading core vocabulary",
+                "id": 10098,
+                "thesaurusId": 999900098,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900098.db",
+                "desc": "四级阅读核心词汇",
+                "desc_en": "CET-4 reading core vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "870",
+                "recitations_num": 44,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 152,
+                "name": "四级听力核心词汇",
+                "name_en": "CET-4 listening core vocabulary",
+                "id": 10099,
+                "thesaurusId": 999900099,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900099.db",
+                "desc": "四级听力核心词汇",
+                "desc_en": "CET-4 listening core vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "152",
+                "recitations_num": 8,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 564,
+                "name": "四级写作核心词汇",
+                "name_en": "CET-4 writing core vocabulary",
+                "id": 10100,
+                "thesaurusId": 999900100,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900100.db",
+                "desc": "四级写作核心词汇",
+                "desc_en": "CET-4 writing core vocabulary",
+                "major_type": 9,
+                "importance_type": 1,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "564",
+                "recitations_num": 29,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 85,
+                "name": "家务场景词汇",
+                "name_en": "Housework scene vocabulary",
+                "id": 10101,
+                "thesaurusId": 999900101,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900101.db",
+                "desc": "家务场景词汇",
+                "desc_en": "Housework scene vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "85",
+                "recitations_num": 5,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 135,
+                "name": "健身场景词汇",
+                "name_en": "Fitness scene vocabulary",
+                "id": 10102,
+                "thesaurusId": 999900102,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900102.db",
+                "desc": "健身场景词汇",
+                "desc_en": "Fitness scene vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "135",
+                "recitations_num": 7,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 100,
+                "name": "就医场景词汇",
+                "name_en": "Medical scene vocabulary",
+                "id": 10103,
+                "thesaurusId": 999900103,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900103.db",
+                "desc": "就医场景词汇",
+                "desc_en": "Medical scene vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "100",
+                "recitations_num": 5,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 236,
+                "name": "烹饪常见词汇",
+                "name_en": "Common cooking vocabulary",
+                "id": 10104,
+                "thesaurusId": 999900104,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900104.db",
+                "desc": "烹饪常见词汇",
+                "desc_en": "Common cooking vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "236",
+                "recitations_num": 12,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 68,
+                "name": "点餐场景词汇",
+                "name_en": "Ordering scene vocabulary",
+                "id": 10105,
+                "thesaurusId": 999900105,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900105.db",
+                "desc": "点餐场景词汇",
+                "desc_en": "Ordering scene vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "68",
+                "recitations_num": 4,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            },
+            {
+                "word_count": 113,
+                "name": "公共交通词汇",
+                "name_en": "Public transport vocabulary",
+                "id": 10106,
+                "thesaurusId": 999900106,
+                "version": 1,
+                "url": "https://fanyiapp.cdn.bcebos.com/wordbook/v1/999900106.db",
+                "desc": "公共交通词汇",
+                "desc_en": "Public transport vocabulary",
+                "major_type": 9,
+                "importance_type": 3,
+                "tag": "视频讲解|艾宾浩斯|AI背词",
+                "tag_en": "Video tutorial|Ebbinghaus|AI recite",
+                "reason": "特色词表",
+                "recite_cnt": "113",
+                "recitations_num": 6,
+                "daily_word_count": 20,
+                "sortMap": [
+                    {
+                        "type": 2,
+                        "text": "同根词",
+                        "text_en": "Homologous"
+                    },
+                    {
+                        "type": 4,
+                        "text": "随机乱序",
+                        "text_en": "Random"
+                    },
+                    {
+                        "type": 5,
+                        "text": "字母A-Z",
+                        "text_en": "Alphabet A-Z"
+                    }
+                ],
+                "status": -1
+            }
+        ],
+        "mapping_key": {
+            "version": 1,
+            "importance_data": [
+                {
+                    "name": "核心词汇",
+                    "name_en": "Key",
+                    "key": 1
+                },
+                {
+                    "name": "高频词汇",
+                    "name_en": "High-frenquency",
+                    "key": 2
+                },
+                {
+                    "name": "大纲词汇",
+                    "name_en": "Syllabus",
+                    "key": 3
+                },
+                {
+                    "name": "人教版",
+                    "name_en": "PEP",
+                    "key": 4
+                },
+                {
+                    "name": "人教版新起点",
+                    "name_en": "SL",
+                    "key": 5
+                },
+                {
+                    "name": "仁爱版",
+                    "name_en": "Project English",
+                    "key": 6
+                },
+                {
+                    "name_en": "Yilin",
+                    "key": 8,
+                    "name": "译林版"
+                },
+                {
+                    "key": 9,
+                    "name_en": "FLTRP",
+                    "name": "外研版"
+                },
+                {
+                    "key": 10,
+                    "name_en": "Lu Jiao Version",
+                    "name": "鲁教版"
+                }
+            ],
+            "major_data": [
+                {
+                    "name": "小学",
+                    "name_en": "Primary",
+                    "key": 6
+                },
+                {
+                    "name": "初中",
+                    "name_en": "Junior",
+                    "key": 7
+                },
+                {
+                    "name": "高中",
+                    "name_en": "High",
+                    "key": 8
+                },
+                {
+                    "name": "大学",
+                    "name_en": "University",
+                    "key": 9
+                },
+                {
+                    "name": "出国留学",
+                    "name_en": "Abroad",
+                    "key": 10
+                },
+                {
+                    "name": "剑桥五级",
+                    "name_en": "MSE",
+                    "key": 11
+                },
+                {
+                    "name": "其他",
+                    "name_en": "Others",
+                    "key": 12
+                }
+            ]
+        }
+    }
+}

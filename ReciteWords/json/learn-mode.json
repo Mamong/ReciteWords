@@ -1,0 +1,29 @@
+{
+    "title": "学习模式",
+    "key": "dictate",
+    "children": [
+        {
+            "children": [
+                {
+                    "type": 1,
+                    "title": "卡片模式",
+                    "key":"dictate-sounde_ffect",
+                    "link":"CardMode",
+                    "hasMore":true
+                },
+                {
+                    "type": 1,
+                    "title": "拼写模式",
+                    "key":"dictate-sounde_ffect",
+                    "hasMore":true
+                },
+                {
+                    "type": 1,
+                    "title": "听写模式",
+                    "key":"dictate-sounde_ffect",
+                    "hasMore":true
+                },
+            ]
+        }
+    ]
+}

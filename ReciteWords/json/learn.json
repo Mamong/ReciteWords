@@ -1,0 +1,222 @@
+{
+    "title": "学习",
+    "key": "dictate",
+    "children": [
+        {
+            "header": "界面",
+            "children": [
+                {
+                    "type": 3,
+                    "title": "显示",
+                    "key":"dictate-sounde_ffect",
+                    "options":[
+                        {"name":"隐藏","value":0},
+                        {"name":"双语","value":1},
+                        {"name":"英语","value":2},
+                        {"name":"中文","value":3},
+                    ]
+                },
+                {
+                    "type": 1,
+                    "title": "布局",
+                    "key":"spell-layout",
+                    "hasMore":true,
+                    "child":{
+                        "title": "布局",
+                        "key": "spell-layout",
+                        "children":[{
+                            "header": "选择布局",
+                            "children": [
+                                {
+                                    "type": 2,
+                                    "title": "水平靠左",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":0
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "垂直靠左",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":1
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "水平靠右",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":2
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "垂直靠右",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":3
+                                },
+                            ]
+                        }]
+                    }
+                },
+                {
+                    "type": 1,
+                    "title": "排序",
+                    "key":"spell-layout",
+                    "hasMore":true,
+                    "child":{
+                        "title": "排序",
+                        "key": "spell-layout",
+                        "children":[{
+                            "header": "选择顺序",
+                            "children": [
+                                {
+                                    "type": 2,
+                                    "title": "默认顺序",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":0
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "A-Z顺序",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":1
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "Z-A顺序",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":2
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "由易到难",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":3
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "由难到易",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":3
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "随机",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":3
+                                },
+                            ]
+                        }]
+                    }
+                },
+                {
+                    "type": 1,
+                    "title": "点击绑定",
+                    "key":"dictate-sounde_ffect",
+                    "hasMore":true,
+                    "child":{
+                        "title": "点击绑定",
+                        "key": "spell-layout",
+                        "children":[
+                            {
+                            "header": "点击单词",
+                            "children": [
+                                {
+                                    "type": 2,
+                                    "title": "记笔记",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":0
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "听发音",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":1
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "查字典",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":2
+                                },
+                             ]
+                           },
+                            {
+                            "header": "点击音标",
+                            "children": [
+                                {
+                                    "type": 2,
+                                    "title": "记笔记",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":0
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "听发音",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":1
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "查字典",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":2
+                                },
+                             ]
+                           },
+                            {
+                            "header": "点击翻译",
+                            "children": [
+                                {
+                                    "type": 2,
+                                    "title": "记笔记",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":0
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "听发音",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":1
+                                },
+                                {
+                                    "type": 2,
+                                    "title": "查字典",
+                                    "key":"dictate-sounde_ffect",
+                                    "value":2
+                                },
+                             ]
+                           }
+                        ]
+                    }
+                },
+            ]
+        },
+        {
+            "header": "自动",
+            "children": [
+                {
+                    "type": 4,
+                    "title": "自动切词",
+                    "key":"spell-sounde_ffect",
+                },
+                {
+                    "type": 3,
+                    "title": "播放",
+                    "key":"dictate-sounde_ffect",
+                    "options":[
+                        {"name":"双语","value":0},
+                        {"name":"英语","value":1},
+                        {"name":"中文","value":2},
+                    ]
+                },
+                {
+                    "type": 5,
+                    "title": "朗读次数",
+                    "key":"dictate-sounde_ffect",
+                    "minValue":0,
+                    "maxValue":100,
+                    "stepValue":1,
+                },
+            ]
+        }
+    ]
+}
+

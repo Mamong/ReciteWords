@@ -1,0 +1,27 @@
+{
+    "title": "拼写",
+    "key": "spell"
+    "children": [
+        {
+            "title": "",
+            "children": [
+                {
+                    "type": 3,
+                    "title": "输入",
+                    "key":"dictate-sounde_ffect",
+                    "options":[
+                        {"name":"无","value":0},
+                        {"name":"选字","value":1},
+                        {"name":"键盘","value":2},
+                    ]
+                },
+                {
+                    "type": 4,
+                    "title": "启用音效",
+                    "key":"spell-sounde_ffect",
+                },
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,23 @@
+{
+    "online":[
+        {"name":"系统","url":"reference"},
+        {"name":"优词","url":"https://www.youdict.com/w/@"},
+        {"name":"有道","url":"https://m.youdao.com/m/result?word=@&lang=en"},
+        {"name":"欧路","url":"https://dict.eudic.net/mdicts/en/@"},
+        {"name":"必应","url":"https://cn.bing.com/dict/search?q=@"},
+        {"name":"海词","url":"http://m.dict.cn/msearch.php?q=@"},
+        {"name":"爱词霸","url":"https://www.iciba.com/word?w=@"},
+        {"name":"百度翻译","url":"https://fanyi.baidu.com/?aldtype=16047#en/zh/@"},
+    ],
+    "offline":[
+        {"name":"牛津（英英）","url":"https://www.lexico.com/definition/@"},
+        {"name":"韦氏（英英）","url":"https://www.merriam-webster.com/dictionary/@"},
+        {"name":"朗文（英英）","url":"https://www.ldoceonline.com/dictionary/@"},
+        {"name":"柯林斯（英中）","url":"https://www.collinsdictionary.com/zh/dictionary/english/@"},
+        {"name":"剑桥（英中）","url":"https://dictionary.cambridge.org/dictionary/english-chinese-simplified/@"},
+        {"name":"vocabulary（英英）","url":"https://www.vocabulary.com/dictionary/@"},
+        {"name":"词源在线（etymonline）","url":"https://www.etymonline.com/word/@"},
+        {"name":"人人词典","url":"https://www.91dict.com/words?w=@"},
+        {"name":"图解词典（infovisual）","url":"https://infovisual.info/search?q=@"},
+    ]
+}
